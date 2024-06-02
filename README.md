@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tauqueer123manzar" alt="tauqueer123manzar" /></a> </p>
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 👯 I’m looking to collaborate on **Doctor Appointment**
+- 👯 I’m looking to collaborate on **REAL TIME CHAT APPLICATION**
 
 - 🤝 I’m looking for help with **Full stack web development**
 
-- 👨‍💻 All of my projects are available at [https://transcendent-ganache-b4dd80.netlify.app/](https://transcendent-ganache-b4dd80.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://66561591ad18906aa7e8757a--boisterous-praline-551874.netlify.app/)
 
 - 💬 Ask me about **react**
 
