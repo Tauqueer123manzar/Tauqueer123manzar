@@ -9,7 +9,7 @@
 
 <!-- Background Image -->
 <div align="center">
-  <img src="file:///C:/Users/mdtau/OneDrive/Pictures/Downloads/Blue,%20Green,%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner.png" alt="Background Image" width="100%" height="200px" style="object-fit: cover;"/>
+  <img src="file:///C:/Users/mdtau/OneDrive/Pictures/Downloads/Blue,%20Green,%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner.jpg" alt="Background Image" width="100%" height="200px" style="object-fit: cover;"/>
 </div>
 
 
