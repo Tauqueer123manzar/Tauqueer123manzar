@@ -3,7 +3,7 @@
 
 <!-- Background Image -->
 <div align="center">
-  <img src="https://source.unsplash.com/1600x500/?technology,programming" alt="Background Image">
+  <img src="https://leadgenapp.io/wp-content/uploads/2023/12/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba.jpg" alt="Background Image">
 </div>
 
 <!-- Coding GIF -->
@@ -42,7 +42,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tauqueer123manzar&show_icons=true&theme=radical" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tauqueer123manzar&theme=radical" width="400px"/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tauqueer123Manzar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 ---
