@@ -10,7 +10,7 @@
 <!-- Background Image -->
 <div align="center">
   <img src="https://i.postimg.cc/HWFfFp4W/Blue-Green-and-White-Modern-Tech-Web-Developer-Linked-In-Banner.jpg" 
-       alt="GitHub Banner" width="100%" height="200px" style="object-fit: cover;"/>
+       alt="GitHub Banner" width="100%" height="230px" style="object-fit: cover;"/>
 </div>
 
 
