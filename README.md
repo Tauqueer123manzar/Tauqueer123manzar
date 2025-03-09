@@ -50,7 +50,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tauqueer123Manzar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 📞 Connect with Me & 🌐 Socials Link:
+###📞Connect with Me & 🌐Socials Link:
 <p align="center">
   <a href="mailto:mdtauqueermanzar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="tel:+917549200441"><img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
