@@ -3,8 +3,9 @@
 
 <!-- Background Image -->
 <div align="center">
-  <img src="https://leadgenapp.io/wp-content/uploads/2023/12/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba.jpg" alt="Background Image">
+  <img src="https://leadgenapp.io/wp-content/uploads/2023/12/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba.jpg" alt="Background Image" width="100%" height="250px" style="object-fit: cover;"/>
 </div>
+
 
 <!-- Coding GIF -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
