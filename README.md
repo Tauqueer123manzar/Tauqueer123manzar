@@ -53,6 +53,13 @@
 
 ---
 
+### 📊 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauqueer123manzar&layout=compact&theme=radical" width="400px"/>
+</p>
+
+---
+
 ### 📞 Connect with Me:
 <p>
   <a href="mailto:mdtauqueermanzar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
