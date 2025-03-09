@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Md Tauqueer Manzar</h1>
-<h3 align="center">A Passionate Full Stack Web Developer</h3>
+<h1 align="center" style="color: #FF5733; font-size: 50px; font-weight: bold; font-family: Arial, sans-serif;">
+  Hi 👋, I'm Md Tauqueer Manzar
+</h1>
+
+<h3 align="center" style="color: #3498db; font-size: 30px; font-weight: bold; font-family: 'Courier New', monospace;">
+  A Passionate Full Stack Web Developer
+</h3>
+
 
 <!-- Background Image -->
 <div align="center">
