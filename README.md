@@ -9,8 +9,10 @@
 
 <!-- Background Image -->
 <div align="center">
-  <img src="file:///C:/Users/mdtau/OneDrive/Pictures/Downloads/Blue,%20Green,%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner.jpg" alt="Background Image" width="100%" height="200px" style="object-fit: cover;"/>
+  <img src="https://i.postimg.cc/HWFfFp4W/Blue-Green-and-White-Modern-Tech-Web-Developer-Linked-In-Banner.jpg" 
+       alt="GitHub Banner" width="100%" height="200px" style="object-fit: cover;"/>
 </div>
+
 
 
 <!-- Coding GIF -->
