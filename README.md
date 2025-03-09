@@ -9,7 +9,7 @@
 
 <!-- Background Image -->
 <div align="center">
-  <img src="https://leadgenapp.io/wp-content/uploads/2023/12/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba.jpg" alt="Background Image" width="100%" height="250px" style="object-fit: cover;"/>
+  <img src="C:\Users\mdtau\OneDrive\Pictures\Downloads\Blue, Green, and White Modern Tech Web Developer LinkedIn Banner.png" alt="Background Image" width="100%" height="200px" style="object-fit: cover;"/>
 </div>
 
 
