@@ -1,14 +1,57 @@
-<h1 align="center">Hi 👋, I'm Md Tauqueer manzar</h1>
-<h3 align="center">A passionate Full stack web developer</h3>
+<h1 align="center">Hi 👋, I'm Md Tauqueer Manzar</h1>
+<h3 align="center">A Passionate Full Stack Web Developer</h3>
 
-<img align="right"  alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tauqueer123manzar&label=Profile%20views&color=0e75b6&style=flat" alt="tauqueer123manzar" /> </p>
- - 📫 How to reach me mdtauqueermanzar@gmail.com
- 
- - 🤝 I’m looking for help with **JOB**
-   
-# 💫 About Me:
-I'm currently working on Mern Stack & Android (React Native).<br>I'm looking to collaborate on the Mern Project.<br>I'm looking for help with React.js , Node.js and Mongodb.<br>I'm currently learning React Native.<br>Ask me about from the React.js and Javascript.<br>
+<!-- Background Image -->
+<div align="center">
+  <img src="https://source.unsplash.com/1600x500/?technology,programming" alt="Background Image">
+</div>
+
+<!-- Coding GIF -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+
+<!-- Profile Views -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=tauqueer123manzar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 🔥 About Me:
+- 🚀 Full Stack Developer | MERN Stack Enthusiast  
+- 📫 How to reach me: **mdtauqueermanzar@gmail.com**  
+- 💡 I’m looking for **Job Opportunities** in Full Stack Web Developer  
+- 🎨 Love crafting clean UI with **React & Tailwind CSS**  
+
+---
+
+### 🚀 Tech Stack:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tauqueer123manzar&show_icons=true&theme=radical" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tauqueer123manzar&theme=radical" width="400px"/>
+</p>
+
+---
+
+### 📞 Connect with Me:
+<p>
+  <a href="mailto:mdtauqueermanzar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/md-tauqueer-manzar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/tauqueer123manzar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 
 ## 🌐 Socials:
